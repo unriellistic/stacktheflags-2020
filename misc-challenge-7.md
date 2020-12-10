@@ -1,6 +1,6 @@
 ### Preliminary Steps
 
-We are handed a png file with no leads. To acquire said leads we should first bang the file through common tools, such as binwalk and pngcheck.
+We are handed a png file with no leads. To acquire said leads we should first bang the file through common tools such as binwalk and pngcheck.
 
 
 ![alt text](https://github.com/unriellistic/stacktheflags-2020/blob/main/misc-challenge-7-picures/1.png)
