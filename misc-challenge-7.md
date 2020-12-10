@@ -23,5 +23,5 @@ After the usual checks on the new picture reveal nothing, we move on to image st
 
 ![alt text](https://github.com/unriellistic/stacktheflags-2020/blob/main/misc-challenge-7-picures/3.png)
 
-Clicking through the bitmaps reveals the flag.
+Clicking through the bitmaps yields the flag annoyingly tucked away in a corner.
 ![alt text](https://github.com/unriellistic/stacktheflags-2020/blob/main/misc-challenge-7-picures/4.png)
