@@ -19,7 +19,7 @@ This is the png file within the png file:
 ### Getting the Flag
 
 
-After the usual checks on the new picture reveal nothing, we move on to image stenography. [StegOnline](https://stegonline.georgeom.net/) is a wonderful tool for this purpose. Upon uploading the flag picture, stegonline writes in big red words that the image contains a custom colour palette.
+After the usual checks on the new picture reveal nothing, we move on to image stenography. [StegOnline](https://stegonline.georgeom.net/) is a wonderful tool for this purpose. Upon uploading the file, StegOnline writes in big red words that the image contains a custom colour palette.
 
 ![alt text](https://github.com/unriellistic/stacktheflags-2020/blob/main/misc-challenge-7-picures/3.png)
 
